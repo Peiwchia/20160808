@@ -27,7 +27,7 @@ shinyServer(function(input, output) {
    })
   
   output$hihihihi <- renderPrint({
-    paste('what you key is ', input$keyin, sep ="")
+    paste('what you key in is ', input$keyin, sep =">> ")
   })
   
 })

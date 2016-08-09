@@ -2,8 +2,8 @@ name: R20160808
 account: peiwchia
 server: shinyapps.io
 appId: 118960
-bundleId: 526486
+bundleId: 527241
 url: https://peiwchia.shinyapps.io/R20160808/
-when: 1470644225.78045
+when: 1470710649.03802
 asMultiple: FALSE
 asStatic: FALSE
