@@ -4,7 +4,7 @@ library(bitops)
 library(RCurl)
 library(httr)
 
-orgURL = 'https://icook.tw/categories/18?page='
+orgURL = 'https://icook.tw/categories/13?page='
 #orgURL = 'https://www.ptt.cc/bbs/StupidClown/index.html'
 
 startPage = 1
